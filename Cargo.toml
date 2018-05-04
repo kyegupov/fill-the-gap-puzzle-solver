@@ -1,0 +1,7 @@
+[package]
+name = "puzzle"
+version = "0.1.0"
+authors = ["Konstantin Yegupov <kyegupov@palantir.com>"]
+
+[dependencies]
+indoc = "*"
